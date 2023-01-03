@@ -1,6 +1,5 @@
-- 👋 Hi, I’m Solmi Kim 
-- 👀 My instagram Id is @thisissolmi 
-- 💞️ My Youtube channel is '파미솔미'.
-- 🌱 I’m currently learning Flutter 
+Hello 
+My name is Solmi Kim,
+My major is Computer Science,
+I'm interested in App Develope and Data Research
 
- ✨ Have a good time! ✨
