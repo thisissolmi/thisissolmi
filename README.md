@@ -1,6 +1,8 @@
 Hello : ) 
 
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thisissolmi&show_icons=true&theme=radical)
+
 <a href="https://www.instagram.com/thisissolmi/" target="_blank">
   <img align="left" alt="solmi's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
@@ -12,7 +14,7 @@ Hello : )
 </a>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thisissolmi&show_icons=true&theme=radical)
+
 
 
 <h3 align="left">languages and tools</h3>
