@@ -11,8 +11,13 @@ Hello : )
   <img align="left" alt="solmi's Youtube" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" />
 </a>
 
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thisissolmi&show_icons=true&theme=radical)
+
+
 <h3 align="left">languages and tools</h3>
 <br />
+
 <p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" height="30"/>
@@ -41,5 +46,3 @@ Hello : )
   </a>
 </p>
 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thisissolmi&show_icons=true&theme=radical)
