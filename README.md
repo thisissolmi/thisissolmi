@@ -5,6 +5,13 @@
 
 
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thisissolmi&layout=compact&theme=tokyonight)
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thisissolmi&show_icons=true&theme=radical)
+
+
+
 <a href="https://www.instagram.com/thisissolmi/" target="_blank">
   <img align="left" alt="solmi's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
@@ -35,9 +42,4 @@
   
 </p>
 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thisissolmi&layout=compact&theme=tokyonight)
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thisissolmi&show_icons=true&theme=radical)
 
