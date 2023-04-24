@@ -5,9 +5,6 @@
 **miro7923/miro7923** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 <h3 align="center"> 💻 Solmi History 💻</h3>
-<h4 align="center"> Techs that I've used at least once</h4>
-
-<p align="center">
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thisissolmi&show_icons=true&theme=radical)
