@@ -1,7 +1,7 @@
 <h1 align="center"> Solmi Kim </h1>
 
 
-<h3 align="center"> 💻 Solmi History 💻</h3>
+<h3 align="center"> 💻 . . .  💻</h3>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thisissolmi&show_icons=true&theme=radical)
 
