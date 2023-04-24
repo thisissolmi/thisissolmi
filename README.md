@@ -1,11 +1,7 @@
 <h1 align="center"> Solmi Kim </h1>
-<h3 align="center"> Hi there 👋</h3>
 
-<!--
-**miro7923/miro7923** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 <h3 align="center"> 💻 Solmi History 💻</h3>
-
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thisissolmi&show_icons=true&theme=radical)
 
