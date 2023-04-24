@@ -31,24 +31,19 @@
 
   
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/>
-   <img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=React&logoColor=white"/>
-  
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" height="30"/>
-   </a>
-  
+   <img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=Dart&logoColor=white"/>
+     <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=Flutter&logoColor=white"/>
+   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white"/>
+   <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C++&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javaScript&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
+   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML%&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma%&logoColor=white"/>
+   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git%&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scratch-4D97FF?style=flat&logo=Scratch%&logoColor=white"/>
   
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="30"/>
-  </a>
 
-   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" height="30"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" height="30"/>
-  </a>
+ 
 </p>
 
 
