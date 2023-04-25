@@ -4,7 +4,7 @@
 <h3 align="center"> 💻 . . .  💻</h3>
 
 
-
+<p align="center">
 
 <a href="https://www.instagram.com/thisissolmi/" target="_blank">
   <img align="left" alt="solmi's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
@@ -16,6 +16,7 @@
   <img align="left" alt="solmi's Youtube" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" />
 </a>
 
+  
 <br/>
 
 
