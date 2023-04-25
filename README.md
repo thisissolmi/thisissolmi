@@ -16,6 +16,7 @@
   <img align="left" alt="solmi's Youtube" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" />
 </a>
 
+  </p>
   
 <br/>
 
