@@ -47,3 +47,7 @@
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thisissolmi&show_icons=true&theme=radical)
+
+
+![mazandi profile](http://mazandi.herokuapp.com/api?handle=djs100201)
+![mazandi profile](http://mazandi.herokuapp.com/api/random?tier=platinum&theme=warm)
