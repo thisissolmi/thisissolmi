@@ -6,8 +6,6 @@
 
 
 
-
-
 <a href="https://www.instagram.com/thisissolmi/" target="_blank">
   <img align="left" alt="solmi's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
@@ -21,9 +19,8 @@
 <br/>
 
 
-<h3 align="left">languages and tools</h3>
 
-<h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
+<h3 align="center"><b>🛠 languages and tool 🛠</b></h3>
 <p align="center">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a> &nbsp
