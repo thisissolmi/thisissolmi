@@ -37,6 +37,8 @@
         <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white"/></a> &nbsp
         <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a> &nbsp
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a> &nbsp
+          <img src="https://img.shields.io/badge/Swift-3776AB?style=flat-square&logo=Swift&logoColor=white"/></a> &nbsp
+        
 
 
    
