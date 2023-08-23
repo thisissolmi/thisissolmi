@@ -5,8 +5,7 @@
 
 
 
-
-<a href="https://www.instagram.com/thisissolmi/" target="_blank">
+<a href="https://https://thisissolmi.tistory.com/" target="_blank">
   <img align="left" alt="solmi's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
 
@@ -17,6 +16,10 @@
 
 <a href="https://www.linkedin.com/in/thisisolmi/" target="_blank">
   <img align="left" alt="solmi's Linkedin" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/linkedin.png" />
+</a>
+
+<a href="https://www.instagram.com/thisissolmi/" target="_blank">
+  <img align="left" alt="solmi's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
 
 
