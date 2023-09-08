@@ -15,7 +15,7 @@
   <img align="left" alt="solmi's Linkedin" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/linkedin.png" />
 </a>
 
-<a href="https://www.instagram.com/thisissolmi/" target="_blank">
+<a href="https://www.instagram.com/dev_solmi/" target="_blank">
   <img align="left" alt="solmi's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
 
