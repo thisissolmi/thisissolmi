@@ -52,7 +52,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thisissolmi&layout=compact&theme=tokyonight)
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thisissolmi&show_icons=true&theme=radical)
+
 
 
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=oksk6685)
