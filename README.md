@@ -5,7 +5,15 @@
 
 
 
-
+<p align='center'> Decorate GitHub Profile or any Repo like me! </p>
+<p align='center'>
+  <a href="https://github.com/kyechan99/capsule-render/labels/Idea">
+    <img src="https://img.shields.io/badge/IDEA%20ISSUE%20-%23F7DF1E.svg?&style=for-the-badge&&logoColor=white"/>
+  </a>
+  <a href="#demo">
+    <img src="https://img.shields.io/badge/DEMO%20-%234FC08D.svg?&style=for-the-badge&&logoColor=white"/>
+  </a>
+</p>
 
 <a href="https://www.youtube.com/channel/UC17rDYn5VhMNpK2guYTyepQ" target="_blank">
   <img align="left" alt="solmi's Youtube" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" />
