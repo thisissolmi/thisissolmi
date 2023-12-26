@@ -20,6 +20,15 @@
   </h5>
 
 
+<h3 align="left">   Competition  </h3>
+
+2022.11 1학년 자작소프트웨어 공모전 장려상 
+
+2023.11 SW Festival 소프트웨어를 활용한 문제해결 아이디어 공모전 대상 
+
+
+
+
 <a href="https://www.youtube.com/channel/UC17rDYn5VhMNpK2guYTyepQ" target="_blank">
   <img align="left" alt="solmi's Youtube" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" />
 </a>
