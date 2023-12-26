@@ -4,7 +4,12 @@
 <h1 align="center"> 💻 Software Developer 💻 </h1>
 
 
-<h3 align="left">  Career \n 2022.02 한동대학교 22학번 입학 \n 2023.02~ 한동대학교 전산전자공학부 AI 컴퓨터공학 전공 \n 2023.01~ 2023.12 SODA 앱 협업 학회 3기 개발자 \n 2023.08~ G.H.O.S.T 보안 동아리 동아리원  </h3>
+<h3 align="left">  Career  </h3>
+
+ 2022.02 한동대학교 22학번 입학 
+ 2023.02~ 한동대학교 전산전자공학부 AI 컴퓨터공학 전공
+ 2023.01~ 2023.12 SODA 앱 협업 학회 3기 개발자
+ 2023.08~ G.H.O.S.T 보안 동아리 동아리원 
 
 
 <a href="https://www.youtube.com/channel/UC17rDYn5VhMNpK2guYTyepQ" target="_blank">
