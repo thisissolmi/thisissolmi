@@ -4,7 +4,7 @@
 <h1 align="center"> 💻 Software Developer 💻 </h1>
 
 
-<h3 align="center">  Welcome to my Github :)  </h3>
+<h3 align="left">  Welcome to my Github :)  </h3>
 
 
 <a href="https://www.youtube.com/channel/UC17rDYn5VhMNpK2guYTyepQ" target="_blank">
