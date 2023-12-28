@@ -33,17 +33,24 @@
   </h5>
 
 
-  <h3 align="left">   Camp List  </h3>
+<h3 align="left">   Camp List  </h3>
 
 
 <h5 align="left"> 
  
- 2022.6 미리미리 C캠프 이수
+2022.6 미리미리 C캠프 이수
 
-   2022. 8~12 Design Sprint 캠프 이수  (1학년 2학기 공학설계입문 전공 수업)
+2022. 8~12 Design Sprint 캠프 이수  (1학년 2학기 공학설계입문 전공 수업)
 
+2023.7 디개좋은 캠프 이수
 
- 
+2023. 7 Design Sprint 캠프 이수 
+
+2023. 7 Ultra Marathon 캠프 이수 
+
+2023. 12 Ultra Marathon 캠프 이수
+
+2024.1 PPS 캠프 이수 예정 
   </h5>
 
 
