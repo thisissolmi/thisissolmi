@@ -19,7 +19,7 @@
   </h5>
 
 
-<h3 align="left">   Competition  </h3>
+<h3 align="left">   🏆 Competition  </h3>
 
 
 <h5 align="left"> 
@@ -43,7 +43,7 @@
   </h5>
 
 
-<h3 align="left">   Camp List  </h3>
+<h3 align="left">  ✅  Camp List  </h3>
 
 
 <h5 align="left"> 
