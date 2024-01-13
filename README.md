@@ -40,7 +40,7 @@ White Hacker & Backend developer
 
 2022/10 1학년 프로그래밍 경진대회 참가
 
-2022/11 1학년 자작소프트웨어 공모전 장려상 
+2022/11 1학년 자작소프트웨어 공모전 장려상 수상 
 
 2023/6 2023 미래한국 아이디어 공모전 참가
 
@@ -48,7 +48,7 @@ White Hacker & Backend developer
 
 2023/9 2023 제주 디지털 사회혁신 해커톤 경진대회 참가 
 
-2023/11 SW Festival 소프트웨어를 활용한 문제해결 아이디어 공모전 대상 
+2023/11 SW Festival 소프트웨어를 활용한 문제해결 아이디어 공모전 대상 수상 
 
  
   </h5>
@@ -67,11 +67,11 @@ White Hacker & Backend developer
 
 2023/7 Design Sprint 캠프 이수 
 
-2023/7 Ultra Marathon 캠프 이수 
+2023/7~8 Ultra Marathon 캠프 이수 
 
-2023/12 Ultra Marathon 캠프 이수
+2023/12~1 Ultra Marathon 캠프 이수
 
-2024/1 PPS 캠프 이수 예정 
+2024/1~2 PPS 캠프 이수 
 
   </h5>
 
