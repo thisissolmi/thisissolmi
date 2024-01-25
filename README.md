@@ -8,9 +8,8 @@
 <h5 align="left"> 
 
 
-- Security
-
-- White Hacker & Backend developer 
+Security
+White Hacker & Backend developer 
 
   </h5>
 
