@@ -8,7 +8,7 @@
 <h5 align="left"> 
 
 
-- Security
+- Security & Application 
 
 - White Hacker & Backend developer 
 
