@@ -10,7 +10,7 @@
 
 - Security & Application 
 
-- White Hacker & Backend developer 
+- White Hacker 
 
   </h5>
 
