@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=Solmi_Kim&fontSize=80)
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=thisissolmi&fontSize=50)
 
 
 <h1 align="center"> 💻 Software Developer 💻 </h1>
