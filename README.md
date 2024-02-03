@@ -8,9 +8,7 @@
 <h5 align="left"> 
 
 
-- Security & Application 
-
-- White Hacker 
+- Security & Application Developer
 
   </h5>
 
