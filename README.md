@@ -7,8 +7,7 @@
 
 <h5 align="left"> 
 
-
-- Security & Application Developer
+- Security & Application Developer :)
 
   </h5>
 
