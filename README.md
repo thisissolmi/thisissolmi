@@ -3,7 +3,7 @@
 
 <h1 align="center"> 💻 Software Developer 💻 </h1>
 
-<h3 align="left">  I'm interested in  </h3>
+<h3 align="left">  Interested in ~  </h3>
 
 <h5 align="left"> 
 
