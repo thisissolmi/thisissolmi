@@ -7,6 +7,8 @@
 
 <h5 align="left"> 
 
+- I' m Junior Student in Handong Global University :) 
+
 - Security & Application Developer :)
 
   </h5>
