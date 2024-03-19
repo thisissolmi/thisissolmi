@@ -67,9 +67,9 @@
 
 2023/7 Design Sprint 캠프 이수 
 
-2023/7~8 Ultra Marathon 캠프 이수 
+2023/7~8 Ultra Marathon (1) 캠프 이수 
 
-2023/12~1 Ultra Marathon 캠프 이수
+2023/12~1 Ultra Marathon (2) 캠프 이수
 
 2024/1~2 PPS 캠프 이수 
 
