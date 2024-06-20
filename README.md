@@ -9,7 +9,7 @@
 
 - I' m Junior Student in Handong Global University :) 
 
-- Security & Application Developer :)
+- Security & Web Front Developer :)
 
   </h5>
 
@@ -25,6 +25,8 @@
  2023/1~ 12 SODA 앱 협업 학회 3기 개발자
  
  2023/8~ G.H.O.S.T 보안 동아리 동아리원 
+
+ 2026/2 한동대학교 졸업 예정 
   </h5>
 
 
@@ -49,6 +51,8 @@
 2023/11 SW Festival 모바일 앱 개발 공모전참가
 
 2023/11 SW Festival 소프트웨어를 활용한 문제해결 아이디어 공모전 대상수상 
+
+2023/06 Bizflow 
 
  
   </h5>
