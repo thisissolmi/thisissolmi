@@ -52,7 +52,7 @@
 
 2023/11 SW Festival 소프트웨어를 활용한 문제해결 아이디어 공모전 대상수상 
 
-2023/06 Bizflow 
+2023/06 BizFlow M Pre-Contest 장려상
 
  
   </h5>
