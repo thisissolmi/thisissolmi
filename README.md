@@ -1,18 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=thisissolmi&fontSize=50)
 
 
-<h1 align="center"> 💻 Software Developer 💻 </h1>
-
-<h3 align="left">  I'm Interested in ~  </h3>
-
-<h5 align="left"> 
-
-- I' m Junior Student in Handong Global University :) 
-
-- Security & Web Front Developer :)
-
-  </h5>
-
 <h3 align="left">  🏷️ Career  </h3>
 
 
