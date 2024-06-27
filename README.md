@@ -1,4 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=thisissolmi&fontSize=50)
 
 
 <h3 align="left">  🏷️ Career  </h3>
