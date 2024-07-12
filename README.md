@@ -59,3 +59,9 @@
 ![mazandi profile](http://mazandi.herokuapp.com/api/random?tier=platinum&theme=warm)
 
 
+## 📕 Latest Blog Posts
+<p>
+    <a href="https://thisissolmi.tistory.com/"><img src="https://img.shields.io/badge/Blog-FF5722?style=flat-square&logo=Blogger&logoColor=white"/></a><br>
+</p>
+
+
