@@ -57,3 +57,8 @@
 
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=oksk6685)
 ![mazandi profile](http://mazandi.herokuapp.com/api/random?tier=platinum&theme=warm)
+
+
+### 📕 Latest Blog Posts   
+
+<a href ="https://thisissomli.tistory.com"> [Kotlin] File들을 코드별 폴더로 압축하기 </a> <br><a href ="https://peterica.tistory.com/701"> [Kotlin] MutableList 기능 설명 </a> <br><a href ="https://peterica.tistory.com/391"> [Kotlin] Map 다양한 사용법 </a> <br><a href ="https://peterica.tistory.com/399"> [Kotlin] 코틀린 MapStruct </a> <br><a href ="https://peterica.tistory.com/597"> [Intellij] JSON 이쁘게 정리하기, JSON 정렬 </a> <br><a href ="https://peterica.tistory.com/606"> [JPA] GenerationType(AUTO, IDENTITY, SEQUENCE ,TABLE) 기본 키 생성 전략 </a> <br>
