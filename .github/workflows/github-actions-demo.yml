@@ -42,4 +42,3 @@ jobs:
           git config --local user.name "Bae"
           git commit -m "Update README.md"
           git push
-출처: https://bsssss.tistory.com/625 [Small Asteroid Blog:티스토리]
