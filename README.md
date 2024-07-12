@@ -97,12 +97,7 @@
    
   
 </p>
-<a href="http://lovera.maxam.now.sh/">
-    <img src="https://user-images.githubusercontent.com/25841814/79395484-5081ae80-7fac-11ea-9e27-ac91472e31dd.png" alt="screenshot" width="500">
-  </a>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thisissolmi&layout=compact&theme=tokyonight)
-![mazandi profile](http://mazandi.herokuapp.com/api?handle=oksk6685)
-![mazandi profile](http://mazandi.herokuapp.com/api/random?tier=platinum&theme=warm)
+
 
 ## 📕 Latest Blog Posts
 
