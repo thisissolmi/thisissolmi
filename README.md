@@ -1,4 +1,9 @@
 
+<h3 align="left">  🏷️ Career  </h3>
+<h5 align="left"> 
+
+  
+<br/>
 <h3 align="center"><b>🛠 languages and tool 🛠</b></h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Swift-E34F26?style=flat-square&logo=Swift&logoColor=white"/></a> &nbsp
@@ -12,10 +17,12 @@
         <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a> &nbsp
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a> &nbsp
           
-         
+        
+   
   
 </p>
 
+
 ## 📕 Latest Blog Posts
 
-<a href=https://thisissolmi.tistory.com/103>React 기본 명령어 .zip</a></br><a href=https://thisissolmi.tistory.com/102>자바 기본 출력 방법</a></br><a href=https://thisissolmi.tistory.com/101>AI 코딩 어시스턴트 깃허브 코파일럿 : 제대로 활용하기!</a></br><a href=https://thisissolmi.tistory.com/100>sort의 종류</a></br><a href=https://thisissolmi.tistory.com/99>quiz 6</a></br>
+<a href="https://thisissolmi.tistory.com/104">React Concept 1</a></br><a href="https://thisissolmi.tistory.com/103">React 기본 명령어 .zip</a></br><a href="https://thisissolmi.tistory.com/102">자바 기본 출력 방법</a></br><a href="https://thisissolmi.tistory.com/101">AI 코딩 어시스턴트 깃허브 코파일럿 : 제대로 활용하기!</a></br><a href="https://thisissolmi.tistory.com/100">sort의 종류</a></br>
