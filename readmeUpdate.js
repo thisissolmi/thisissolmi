@@ -5,6 +5,7 @@ import Parser from "rss-parser";
  * README.MD에 작성될 페이지 텍스트
  * @type {string}
  */
+let text = `
 <h3 align="left">  🏷️ Career  </h3>
 <h5 align="left"> 
 
@@ -50,7 +51,7 @@ const parser = new Parser({
         console.log(`${i + 1}번째 게시물`);
         console.log(`추가될 제목: ${title}`);
         console.log(`추가될 링크: ${link}`);
-        text += `<a href=${link}>${title}</a></br>`;
+        text += `<a href="${link}">${title}</a></br>`;
     }
 
     // README.md 파일 작성
