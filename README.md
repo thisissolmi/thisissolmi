@@ -25,4 +25,4 @@
 
 ## 📕 Latest Blog Posts
 
-<a href="https://thisissolmi.tistory.com/105">React study 3</a></br><a href="https://thisissolmi.tistory.com/104">React Concept 1</a></br><a href="https://thisissolmi.tistory.com/103">React 기본 명령어 .zip</a></br><a href="https://thisissolmi.tistory.com/102">자바 기본 출력 방법</a></br><a href="https://thisissolmi.tistory.com/101">AI 코딩 어시스턴트 깃허브 코파일럿 : 제대로 활용하기!</a></br>
+<a href="https://thisissolmi.tistory.com/106">Spring : JPA</a></br><a href="https://thisissolmi.tistory.com/105">React study 3</a></br><a href="https://thisissolmi.tistory.com/104">React Concept 1</a></br><a href="https://thisissolmi.tistory.com/103">React 기본 명령어 .zip</a></br><a href="https://thisissolmi.tistory.com/102">자바 기본 출력 방법</a></br>
