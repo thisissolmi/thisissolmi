@@ -25,4 +25,4 @@
 
 ## 📕 Latest Blog Posts
 
-<a href="https://thisissolmi.tistory.com/117">Monica</a></br><a href="https://thisissolmi.tistory.com/116">[깃허브 코파일럿] 1분요약 다 드루와</a></br><a href="https://thisissolmi.tistory.com/115">[React] useEffect</a></br><a href="https://thisissolmi.tistory.com/114">[Netlify] 배포하기</a></br><a href="https://thisissolmi.tistory.com/113">들어는 봤나 코파일럿? 1부터 100까지 다 알려줄게!</a></br>
+<a href="https://thisissolmi.tistory.com/118">토스에서 AI로 가짜 신분증 찾아내는 방법</a></br><a href="https://thisissolmi.tistory.com/117">Monica</a></br><a href="https://thisissolmi.tistory.com/116">[깃허브 코파일럿] 1분요약 다 드루와</a></br><a href="https://thisissolmi.tistory.com/115">[React] useEffect</a></br><a href="https://thisissolmi.tistory.com/114">[Netlify] 배포하기</a></br>
