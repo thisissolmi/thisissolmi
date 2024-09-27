@@ -25,4 +25,4 @@
 
 ## 📕 Latest Blog Posts
 
-<a href="https://thisissolmi.tistory.com/119">컴퓨터공학을 전공하면서 통일한국을 어떻게 준비할 수 있을까?</a></br><a href="https://thisissolmi.tistory.com/118">토스에서 AI로 가짜 신분증 찾아내는 방법</a></br><a href="https://thisissolmi.tistory.com/117">Monica</a></br><a href="https://thisissolmi.tistory.com/116">[깃허브 코파일럿] 1분요약 다 드루와</a></br><a href="https://thisissolmi.tistory.com/115">[React] useEffect</a></br>
+<a href="https://thisissolmi.tistory.com/122">네트워크 Keyword 요약</a></br><a href="https://thisissolmi.tistory.com/119">컴퓨터공학을 전공하면서 통일한국을 어떻게 준비할 수 있을까?</a></br><a href="https://thisissolmi.tistory.com/118">토스에서 AI로 가짜 신분증 찾아내는 방법</a></br><a href="https://thisissolmi.tistory.com/117">Monica</a></br><a href="https://thisissolmi.tistory.com/116">[깃허브 코파일럿] 1분요약 다 드루와</a></br>
