@@ -25,4 +25,4 @@
 
 ## 📕 Latest Blog Posts
 
-<a href="https://thisissolmi.tistory.com/123">Chapter 1. Computer Networks and the Internet (Part1) / 1장. 컴퓨터 네트워크와 인터넷 (Part 1)</a></br><a href="https://thisissolmi.tistory.com/122">네트워크 Keyword 요약</a></br><a href="https://thisissolmi.tistory.com/119">컴퓨터공학을 전공하면서 통일한국을 어떻게 준비할 수 있을까?</a></br><a href="https://thisissolmi.tistory.com/118">토스에서 AI로 가짜 신분증 찾아내는 방법</a></br><a href="https://thisissolmi.tistory.com/117">Monica</a></br>
+<a href="https://thisissolmi.tistory.com/124">혼자서 공부하는 네트워크</a></br><a href="https://thisissolmi.tistory.com/123">Chapter 1. Computer Networks and the Internet (Part1) / 1장. 컴퓨터 네트워크와 인터넷 (Part 1)</a></br><a href="https://thisissolmi.tistory.com/122">네트워크 Keyword 요약</a></br><a href="https://thisissolmi.tistory.com/119">컴퓨터공학을 전공하면서 통일한국을 어떻게 준비할 수 있을까?</a></br><a href="https://thisissolmi.tistory.com/118">토스에서 AI로 가짜 신분증 찾아내는 방법</a></br>
