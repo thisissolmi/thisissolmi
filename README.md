@@ -25,4 +25,4 @@
 
 ## 📕 Latest Blog Posts
 
-<a href="https://thisissolmi.tistory.com/131">[TS] - phpMyAdmin Xampp에서 실행시키기</a></br><a href="https://thisissolmi.tistory.com/130">html5</a></br><a href="https://thisissolmi.tistory.com/129">에스트라 리제덤 365 레티노이드 아이세럼</a></br><a href="https://thisissolmi.tistory.com/128">XML Schema</a></br><a href="https://thisissolmi.tistory.com/127">XML Concept</a></br>
+<a href="https://thisissolmi.tistory.com/132">[ComputerNetwork_TransportLayer-1]</a></br><a href="https://thisissolmi.tistory.com/131">[TS] - phpMyAdmin Xampp에서 실행시키기</a></br><a href="https://thisissolmi.tistory.com/130">html5</a></br><a href="https://thisissolmi.tistory.com/129">에스트라 리제덤 365 레티노이드 아이세럼</a></br><a href="https://thisissolmi.tistory.com/128">XML Schema</a></br>
