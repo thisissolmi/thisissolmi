@@ -25,4 +25,4 @@
 
 ## 📕 Latest Blog Posts
 
-<a href="https://thisissolmi.tistory.com/138">개발자로 살아남기</a></br><a href="https://thisissolmi.tistory.com/136">Network Layer: Data Plane (Part 2)</a></br><a href="https://thisissolmi.tistory.com/135">Network Layer: Data Plane (Part 1)</a></br><a href="https://thisissolmi.tistory.com/134">[ComputerNetwork_TransportLayer-3]</a></br><a href="https://thisissolmi.tistory.com/133">[ComputerNetwork_TransportLayer-2]</a></br>
+<a href="https://thisissolmi.tistory.com/139">2025년을 시작하며</a></br><a href="https://thisissolmi.tistory.com/138">개발자로 살아남기</a></br><a href="https://thisissolmi.tistory.com/136">Network Layer: Data Plane (Part 2)</a></br><a href="https://thisissolmi.tistory.com/135">Network Layer: Data Plane (Part 1)</a></br><a href="https://thisissolmi.tistory.com/134">[ComputerNetwork_TransportLayer-3]</a></br>
