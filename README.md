@@ -25,4 +25,4 @@
 
 ## 📕 Latest Blog Posts
 
-<a href="https://thisissolmi.tistory.com/141">vscode 접근권한</a></br><a href="https://thisissolmi.tistory.com/140">밀리의 서재 독서 아카이빙 서비스 개발  Day 01</a></br><a href="https://thisissolmi.tistory.com/139">2025년을 시작하며</a></br><a href="https://thisissolmi.tistory.com/138">개발자로 살아남기</a></br><a href="https://thisissolmi.tistory.com/136">Network Layer: Data Plane (Part 2)</a></br>
+<a href="https://thisissolmi.tistory.com/142">[SQL] study 2주차</a></br><a href="https://thisissolmi.tistory.com/141">vscode 접근권한</a></br><a href="https://thisissolmi.tistory.com/140">밀리의 서재 독서 아카이빙 서비스 개발  Day 01</a></br><a href="https://thisissolmi.tistory.com/139">2025년을 시작하며</a></br><a href="https://thisissolmi.tistory.com/138">개발자로 살아남기</a></br>
