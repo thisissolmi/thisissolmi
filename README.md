@@ -25,4 +25,4 @@
 
 ## 📕 Latest Blog Posts
 
-<a href="https://thisissolmi.tistory.com/143">[Linux] 리눅스 콘솔 단축키</a></br><a href="https://thisissolmi.tistory.com/142">[SQL] study 2주차</a></br><a href="https://thisissolmi.tistory.com/141">vscode 접근권한</a></br><a href="https://thisissolmi.tistory.com/140">밀리의 서재 독서 아카이빙 서비스 개발  Day 01</a></br><a href="https://thisissolmi.tistory.com/139">2025년을 시작하며</a></br>
+<a href="https://thisissolmi.tistory.com/144">[Linux] 리눅스 기본 명령어 정리</a></br><a href="https://thisissolmi.tistory.com/143">[Linux] 리눅스 환경 설정</a></br><a href="https://thisissolmi.tistory.com/142">[SQL] study 2주차</a></br><a href="https://thisissolmi.tistory.com/141">vscode 접근권한</a></br><a href="https://thisissolmi.tistory.com/140">밀리의 서재 독서 아카이빙 서비스 개발  Day 01</a></br>
