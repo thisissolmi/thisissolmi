@@ -25,4 +25,4 @@
 
 ## 📕 Latest Blog Posts
 
-<a href="https://thisissolmi.tistory.com/148">Tree 순회방법 3가지</a></br><a href="https://thisissolmi.tistory.com/147">[자격증] 정보처리기사 문제은행 개념 정리</a></br><a href="https://thisissolmi.tistory.com/146">[MYSQL] 비밀번호 분실시에 재설정 하는 법</a></br><a href="https://thisissolmi.tistory.com/145">[SW개발] IT 8개 직무 기초체험으로 나에게 맞는 적성 찾고 기술역량 키우기</a></br><a href="https://thisissolmi.tistory.com/144">[Linux] 리눅스 기본 명령어 정리</a></br>
+<a href="https://thisissolmi.tistory.com/149">[SQL]</a></br><a href="https://thisissolmi.tistory.com/148">Tree 순회방법 3가지</a></br><a href="https://thisissolmi.tistory.com/147">[자격증] 정보처리기사 문제은행 개념 정리</a></br><a href="https://thisissolmi.tistory.com/146">[MYSQL] 비밀번호 분실시에 재설정 하는 법</a></br><a href="https://thisissolmi.tistory.com/145">[SW개발] IT 8개 직무 기초체험으로 나에게 맞는 적성 찾고 기술역량 키우기</a></br>
