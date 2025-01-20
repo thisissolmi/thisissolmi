@@ -25,4 +25,4 @@
 
 ## 📕 Latest Blog Posts
 
-<a href="https://thisissolmi.tistory.com/151">[Git] .gitignore 설정 및 변경사항 미반영 문제 해결하기</a></br><a href="https://thisissolmi.tistory.com/149">[SQL]</a></br><a href="https://thisissolmi.tistory.com/148">Tree 순회방법 3가지</a></br><a href="https://thisissolmi.tistory.com/147">[자격증] 정보처리기사 문제은행 개념 정리</a></br><a href="https://thisissolmi.tistory.com/146">[MYSQL] 비밀번호 분실시에 재설정 하는 법</a></br>
+<a href="https://thisissolmi.tistory.com/152">[Opic] AI 에바와 함께하는 OPIc IH 합격 후기</a></br><a href="https://thisissolmi.tistory.com/151">[Git] .gitignore 설정 및 변경사항 미반영 문제 해결하기</a></br><a href="https://thisissolmi.tistory.com/149">[SQL]</a></br><a href="https://thisissolmi.tistory.com/148">Tree 순회방법 3가지</a></br><a href="https://thisissolmi.tistory.com/147">[자격증] 정보처리기사 문제은행 개념 정리</a></br>
