@@ -25,4 +25,4 @@
 
 ## 📕 Latest Blog Posts
 
-<a href="https://thisissolmi.tistory.com/162">[book] LET THEM</a></br><a href="https://thisissolmi.tistory.com/161">요구사항 확인</a></br><a href="https://thisissolmi.tistory.com/160">Relational Algebra 2</a></br><a href="https://thisissolmi.tistory.com/159">Relational Algebra 1</a></br><a href="https://thisissolmi.tistory.com/158">Relational Data Model</a></br>
+<a href="https://thisissolmi.tistory.com/163">os-linux 실습</a></br><a href="https://thisissolmi.tistory.com/162">[book] LET THEM</a></br><a href="https://thisissolmi.tistory.com/161">요구사항 확인</a></br><a href="https://thisissolmi.tistory.com/160">Relational Algebra 2</a></br><a href="https://thisissolmi.tistory.com/159">Relational Algebra 1</a></br>
