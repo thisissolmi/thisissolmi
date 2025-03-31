@@ -25,4 +25,4 @@
 
 ## 📕 Latest Blog Posts
 
-<a href="https://thisissolmi.tistory.com/168">os 4주차 정리본</a></br><a href="https://thisissolmi.tistory.com/167">React Native Setting (Mac)</a></br><a href="https://thisissolmi.tistory.com/165">os 3주차 정리본</a></br><a href="https://thisissolmi.tistory.com/164">os 2주차 정리본</a></br><a href="https://thisissolmi.tistory.com/163">os-linux 실습</a></br>
+<a href="https://thisissolmi.tistory.com/169">next.js 파일구조에 대해 알아보자</a></br><a href="https://thisissolmi.tistory.com/168">os 4주차 정리본</a></br><a href="https://thisissolmi.tistory.com/167">React Native Setting (Mac)</a></br><a href="https://thisissolmi.tistory.com/165">os 3주차 정리본</a></br><a href="https://thisissolmi.tistory.com/164">os 2주차 정리본</a></br>
