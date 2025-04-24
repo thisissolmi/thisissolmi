@@ -1,4 +1,10 @@
 
+
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/lines/{thisissolmi}?pet-id=1" width="1000" height="120"/>
+</a>
+
+
 <h3 align="left">  🏷️ Career  </h3>
 <h5 align="left"> 
 
