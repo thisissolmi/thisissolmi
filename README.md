@@ -25,4 +25,4 @@
 
 ## 📕 Latest Blog Posts
 
-<a href="https://thisissolmi.tistory.com/179">[PARD] Git Study - 1차</a></br><a href="https://thisissolmi.tistory.com/178">[OS] Critical Section</a></br><a href="https://thisissolmi.tistory.com/176">[SQL] string 함수</a></br><a href="https://thisissolmi.tistory.com/175">[DB] Entity</a></br><a href="https://thisissolmi.tistory.com/174">zustand</a></br>
+<a href="https://thisissolmi.tistory.com/180">2025 함께 자라기 - 애자일로 가는길</a></br><a href="https://thisissolmi.tistory.com/179">[PARD] Git Study - 1차</a></br><a href="https://thisissolmi.tistory.com/178">[OS] Critical Section</a></br><a href="https://thisissolmi.tistory.com/176">[SQL] string 함수</a></br><a href="https://thisissolmi.tistory.com/175">[DB] Entity</a></br>
