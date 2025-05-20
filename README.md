@@ -25,4 +25,4 @@
 
 ## 📕 Latest Blog Posts
 
-<a href="https://thisissolmi.tistory.com/181">[PARD] Git Study - 2차</a></br><a href="https://thisissolmi.tistory.com/180">2025 함께 자라기 - 애자일로 가는길</a></br><a href="https://thisissolmi.tistory.com/179">[PARD] Git Study - 1차</a></br><a href="https://thisissolmi.tistory.com/178">[OS] Critical Section</a></br><a href="https://thisissolmi.tistory.com/176">[SQL] string 함수</a></br>
+<a href="https://thisissolmi.tistory.com/182">[DB] - Window Functions  &amp; Frame &amp; Key</a></br><a href="https://thisissolmi.tistory.com/181">[PARD] Git Study - 2차</a></br><a href="https://thisissolmi.tistory.com/180">2025 함께 자라기 - 애자일로 가는길</a></br><a href="https://thisissolmi.tistory.com/179">[PARD] Git Study - 1차</a></br><a href="https://thisissolmi.tistory.com/178">[OS] Critical Section</a></br>
