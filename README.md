@@ -25,4 +25,4 @@
 
 ## 📕 Latest Blog Posts
 
-<a href="https://thisissolmi.tistory.com/189">Deep Understanding</a></br><a href="https://thisissolmi.tistory.com/188">db</a></br><a href="https://thisissolmi.tistory.com/187">[기말고사 범위 요약 및 개념 정리]</a></br><a href="https://thisissolmi.tistory.com/186">캡스톤 회고</a></br><a href="https://thisissolmi.tistory.com/185">B+Tree</a></br>
+<a href="https://thisissolmi.tistory.com/190">recoil</a></br><a href="https://thisissolmi.tistory.com/189">Deep Understanding</a></br><a href="https://thisissolmi.tistory.com/188">db</a></br><a href="https://thisissolmi.tistory.com/187">[기말고사 범위 요약 및 개념 정리]</a></br><a href="https://thisissolmi.tistory.com/186">캡스톤 회고</a></br>
