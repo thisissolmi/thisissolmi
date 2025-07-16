@@ -25,4 +25,4 @@
 
 ## 📕 Latest Blog Posts
 
-<a href="https://thisissolmi.tistory.com/192">웹파밍 1 : 라이팅룸</a></br><a href="https://thisissolmi.tistory.com/191">[컴퓨터 네트워크] 필수 개념 QA</a></br><a href="https://thisissolmi.tistory.com/190">recoil</a></br><a href="https://thisissolmi.tistory.com/189">Deep Understanding</a></br><a href="https://thisissolmi.tistory.com/188">db</a></br>
+<a href="https://thisissolmi.tistory.com/193">한국사능력검정시험 준비</a></br><a href="https://thisissolmi.tistory.com/192">웹파밍 1 : 라이팅룸</a></br><a href="https://thisissolmi.tistory.com/191">[컴퓨터 네트워크] 필수 개념 QA</a></br><a href="https://thisissolmi.tistory.com/190">recoil</a></br><a href="https://thisissolmi.tistory.com/189">Deep Understanding</a></br>
