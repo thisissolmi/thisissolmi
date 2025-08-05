@@ -25,4 +25,4 @@
 
 ## 📕 Latest Blog Posts
 
-<a href="https://thisissolmi.tistory.com/195">컴퓨터공학, 물리학 그리고 양자컴퓨터</a></br><a href="https://thisissolmi.tistory.com/194">레퍼런스</a></br><a href="https://thisissolmi.tistory.com/193">한국사능력검정시험 준비</a></br><a href="https://thisissolmi.tistory.com/192">웹파밍 1 : 라이팅룸</a></br><a href="https://thisissolmi.tistory.com/191">[컴퓨터 네트워크] 필수 개념 QA</a></br>
+<a href="https://thisissolmi.tistory.com/198">0. React를 공부해볼까?</a></br><a href="https://thisissolmi.tistory.com/195">컴퓨터공학, 물리학 그리고 양자컴퓨터</a></br><a href="https://thisissolmi.tistory.com/194">레퍼런스</a></br><a href="https://thisissolmi.tistory.com/193">한국사능력검정시험 준비</a></br><a href="https://thisissolmi.tistory.com/192">웹파밍 1 : 라이팅룸</a></br>
