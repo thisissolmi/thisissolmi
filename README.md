@@ -4,7 +4,7 @@
 
   
 <br/>
-<h3 align="center"><b> languages and tool </b></h3>
+<h3 align="center"><b>🛠 languages and tool 🛠</b></h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Swift-E34F26?style=flat-square&logo=Swift&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a> &nbsp
@@ -25,4 +25,4 @@
 
 ## 📕 Latest Blog Posts
 
-<a href="https://thisissolmi.tistory.com/199">1. UI 표현하기 (1)</a></br><a href="https://thisissolmi.tistory.com/198">0. React를 공부해볼까?</a></br><a href="https://thisissolmi.tistory.com/195">컴퓨터공학, 물리학 그리고 양자컴퓨터</a></br><a href="https://thisissolmi.tistory.com/194">레퍼런스</a></br><a href="https://thisissolmi.tistory.com/193">한국사능력검정시험 준비</a></br>
+<a href="https://thisissolmi.tistory.com/200">1. UI 표현하기 (2)</a></br><a href="https://thisissolmi.tistory.com/199">1. UI 표현하기 (1)</a></br><a href="https://thisissolmi.tistory.com/198">0. React를 공부해볼까?</a></br><a href="https://thisissolmi.tistory.com/195">컴퓨터공학, 물리학 그리고 양자컴퓨터</a></br><a href="https://thisissolmi.tistory.com/194">레퍼런스</a></br>
