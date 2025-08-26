@@ -25,4 +25,4 @@
 
 ## 📕 Latest Blog Posts
 
-<a href="https://thisissolmi.tistory.com/212">3. 리액트의 props와 state에 대해서 설명해주세요.</a></br><a href="https://thisissolmi.tistory.com/211">2. reflow와 repaint의 차이점에 대해서 설명해주세요.</a></br><a href="https://thisissolmi.tistory.com/210">1. 클로저에 대해 설명해주세요.</a></br><a href="https://thisissolmi.tistory.com/209">0. 매일 면접 준비를 루틴화하며</a></br><a href="https://thisissolmi.tistory.com/207">2. 상호작용 더하기 (4)</a></br>
+<a href="https://thisissolmi.tistory.com/213">4.  리액트 Controlled Component vs Uncontrolled Component 차이점은?</a></br><a href="https://thisissolmi.tistory.com/212">3. 리액트의 props와 state에 대해서 설명해주세요.</a></br><a href="https://thisissolmi.tistory.com/211">2. reflow와 repaint의 차이점에 대해서 설명해주세요.</a></br><a href="https://thisissolmi.tistory.com/210">1. 클로저에 대해 설명해주세요.</a></br><a href="https://thisissolmi.tistory.com/209">0. 매일 면접 준비를 루틴화하며</a></br>
