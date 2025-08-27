@@ -25,4 +25,4 @@
 
 ## 📕 Latest Blog Posts
 
-<a href="https://thisissolmi.tistory.com/214">5. 리액트에서 성능 최적화를 위해 적용할 수 있는 방법들을 설명해주세요.</a></br><a href="https://thisissolmi.tistory.com/213">4.  리액트 Controlled Component vs Uncontrolled Component 차이점은?</a></br><a href="https://thisissolmi.tistory.com/212">3. 리액트의 props와 state에 대해서 설명해주세요.</a></br><a href="https://thisissolmi.tistory.com/211">2. reflow와 repaint의 차이점에 대해서 설명해주세요.</a></br><a href="https://thisissolmi.tistory.com/210">1. 클로저에 대해 설명해주세요.</a></br>
+<a href="https://thisissolmi.tistory.com/215">카피캣마케팅 101</a></br><a href="https://thisissolmi.tistory.com/214">5. 리액트에서 성능 최적화를 위해 적용할 수 있는 방법들을 설명해주세요.</a></br><a href="https://thisissolmi.tistory.com/213">4.  리액트 Controlled Component vs Uncontrolled Component 차이점은?</a></br><a href="https://thisissolmi.tistory.com/212">3. 리액트의 props와 state에 대해서 설명해주세요.</a></br><a href="https://thisissolmi.tistory.com/211">2. reflow와 repaint의 차이점에 대해서 설명해주세요.</a></br>
