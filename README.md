@@ -25,4 +25,4 @@
 
 ## 📕 Latest Blog Posts
 
-<a href="https://thisissolmi.tistory.com/222">클라우드 관련 개념 정리</a></br><a href="https://thisissolmi.tistory.com/221">1. R Introdution &amp; Install</a></br><a href="https://thisissolmi.tistory.com/220">9. 자바스크립트 배열에 대해서 설명해주세요.</a></br><a href="https://thisissolmi.tistory.com/219">  Github CLI로 레포지토리 가시성 (Public/Private) 한 번에 바꾸기</a></br><a href="https://thisissolmi.tistory.com/218">8. 자바스크립트 호이스팅에 대해 설명해주세요.</a></br>
+<a href="https://thisissolmi.tistory.com/223">tailwind vs module.css 뭐가 더 좋은건데!</a></br><a href="https://thisissolmi.tistory.com/222">클라우드 관련 개념 정리</a></br><a href="https://thisissolmi.tistory.com/221">1. R Introdution &amp; Install</a></br><a href="https://thisissolmi.tistory.com/220">9. 자바스크립트 배열에 대해서 설명해주세요.</a></br><a href="https://thisissolmi.tistory.com/219">  Github CLI로 레포지토리 가시성 (Public/Private) 한 번에 바꾸기</a></br>
