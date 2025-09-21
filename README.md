@@ -1,5 +1,5 @@
 
-<h3 align="left">  🏷️ 사용 가능한 스택과 프레임워크  </h3>
+<h3 align="left">  🏷️ Career  </h3>
 <h5 align="left"> 
 
   
@@ -23,6 +23,6 @@
 </p>
 
 
-## 📕 기술 블로그 최신 포스팅
+## 📕 Latest Blog Posts
 
 <a href="https://thisissolmi.tistory.com/227">WKF - pohang 2025</a></br><a href="https://thisissolmi.tistory.com/226">CommonJS와 ES Module의 차이점에 대해서 설명해주세요.</a></br><a href="https://thisissolmi.tistory.com/225">script 태그에서 async와 defer의 차이점에 대해서 설명해주세요.</a></br><a href="https://thisissolmi.tistory.com/224">자바스크립트 함수 종류와 특징</a></br><a href="https://thisissolmi.tistory.com/223">tailwind vs module.css 뭐가 더 좋은건데!</a></br>
