@@ -25,4 +25,4 @@
 
 ## 📕 Latest Blog Posts
 
-<a href="https://thisissolmi.tistory.com/229">낙관적 업데이트에 관하여 설명해주세요.</a></br><a href="https://thisissolmi.tistory.com/228">경험의 멸종</a></br><a href="https://thisissolmi.tistory.com/227">WKF - pohang 2025</a></br><a href="https://thisissolmi.tistory.com/226">CommonJS와 ES Module의 차이점에 대해서 설명해주세요.</a></br><a href="https://thisissolmi.tistory.com/225">script 태그에서 async와 defer의 차이점에 대해서 설명해주세요.</a></br>
+<a href="https://thisissolmi.tistory.com/230">자바스크립트는 싱글 스레드 언어인데, 어떻게 동시에 여러 작업들을 수행하나요?</a></br><a href="https://thisissolmi.tistory.com/229">낙관적 업데이트에 관하여 설명해주세요.</a></br><a href="https://thisissolmi.tistory.com/228">경험의 멸종</a></br><a href="https://thisissolmi.tistory.com/227">WKF - pohang 2025</a></br><a href="https://thisissolmi.tistory.com/226">CommonJS와 ES Module의 차이점에 대해서 설명해주세요.</a></br>
