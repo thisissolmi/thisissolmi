@@ -25,4 +25,4 @@
 
 ## 📕 Latest Blog Posts
 
-<a href="https://thisissolmi.tistory.com/234">시맨틱 마크업이란 무엇이며, 왜 중요한가요?</a></br><a href="https://thisissolmi.tistory.com/232">타입스크립트의 타입과 인터페이스의 차이점을 설명해주세요.</a></br><a href="https://thisissolmi.tistory.com/231">R2</a></br><a href="https://thisissolmi.tistory.com/230">자바스크립트는 싱글 스레드 언어인데, 어떻게 동시에 여러 작업들을 수행하나요?</a></br><a href="https://thisissolmi.tistory.com/229">낙관적 업데이트에 관하여 설명해주세요.</a></br>
+<a href="https://thisissolmi.tistory.com/235">R 데이터 프레임 및 변수 지우기</a></br><a href="https://thisissolmi.tistory.com/234">시맨틱 마크업이란 무엇이며, 왜 중요한가요?</a></br><a href="https://thisissolmi.tistory.com/232">타입스크립트의 타입과 인터페이스의 차이점을 설명해주세요.</a></br><a href="https://thisissolmi.tistory.com/231">R2</a></br><a href="https://thisissolmi.tistory.com/230">자바스크립트는 싱글 스레드 언어인데, 어떻게 동시에 여러 작업들을 수행하나요?</a></br>
