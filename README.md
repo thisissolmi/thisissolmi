@@ -25,4 +25,4 @@
 
 ## 📕 Latest Blog Posts
 
-<a href="https://thisissolmi.tistory.com/237">리액트에서 컴포넌트가 불필요하게 리렌더링되는 상황을 방지하기 위한 방법을 설명해 주세요.</a></br><a href="https://thisissolmi.tistory.com/236">React Server Components support without framework</a></br><a href="https://thisissolmi.tistory.com/235">R 데이터 프레임 및 변수 지우기</a></br><a href="https://thisissolmi.tistory.com/234">시맨틱 마크업이란 무엇이며, 왜 중요한가요?</a></br><a href="https://thisissolmi.tistory.com/232">타입스크립트의 타입과 인터페이스의 차이점을 설명해주세요.</a></br>
+<a href="https://thisissolmi.tistory.com/238">리액트 동시성 모드(Concurrent Mode)에 관해서 설명해주세요.</a></br><a href="https://thisissolmi.tistory.com/237">리액트에서 컴포넌트가 불필요하게 리렌더링되는 상황을 방지하기 위한 방법을 설명해 주세요.</a></br><a href="https://thisissolmi.tistory.com/236">React Server Components support without framework</a></br><a href="https://thisissolmi.tistory.com/235">R 데이터 프레임 및 변수 지우기</a></br><a href="https://thisissolmi.tistory.com/234">시맨틱 마크업이란 무엇이며, 왜 중요한가요?</a></br>
