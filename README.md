@@ -25,4 +25,4 @@
 
 ## 📕 Latest Blog Posts
 
-<a href="https://thisissolmi.tistory.com/240">useEffect를 이용하여 로딩 상태 관리하는 방법과 Suspense를 활용하는 방법에 대한 차이점을 설명해주세요.</a></br><a href="https://thisissolmi.tistory.com/239">R 핵심요약</a></br><a href="https://thisissolmi.tistory.com/238">리액트 동시성 모드(Concurrent Mode)에 관해서 설명해주세요.</a></br><a href="https://thisissolmi.tistory.com/237">리액트에서 컴포넌트가 불필요하게 리렌더링되는 상황을 방지하기 위한 방법을 설명해 주세요.</a></br><a href="https://thisissolmi.tistory.com/236">React Server Components support without framework</a></br>
+<a href="https://thisissolmi.tistory.com/241">localStorage와 sessionStorage의 차이점에 대해서 설명해주세요.</a></br><a href="https://thisissolmi.tistory.com/240">useEffect를 이용하여 로딩 상태 관리하는 방법과 Suspense를 활용하는 방법에 대한 차이점을 설명해주세요.</a></br><a href="https://thisissolmi.tistory.com/239">R 핵심요약</a></br><a href="https://thisissolmi.tistory.com/238">리액트 동시성 모드(Concurrent Mode)에 관해서 설명해주세요.</a></br><a href="https://thisissolmi.tistory.com/237">리액트에서 컴포넌트가 불필요하게 리렌더링되는 상황을 방지하기 위한 방법을 설명해 주세요.</a></br>
