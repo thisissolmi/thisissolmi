@@ -25,4 +25,4 @@
 
 ## 📕 Latest Blog Posts
 
-<a href="https://thisissolmi.tistory.com/246">webpack, rollup과 같은 번들러는 왜 필요한지 설명해주세요.</a></br><a href="https://thisissolmi.tistory.com/245">데이터과학 중간고사 대비</a></br><a href="https://thisissolmi.tistory.com/244">R의 데이터구조</a></br><a href="https://thisissolmi.tistory.com/243">Regression Analysis</a></br><a href="https://thisissolmi.tistory.com/242">Tanstack Query를 사용하는 이유를 설명해 주세요</a></br>
+<a href="https://thisissolmi.tistory.com/247">리액트에서 컴포넌트란 무엇인가요?</a></br><a href="https://thisissolmi.tistory.com/246">webpack, rollup과 같은 번들러는 왜 필요한지 설명해주세요.</a></br><a href="https://thisissolmi.tistory.com/245">데이터과학 중간고사 대비</a></br><a href="https://thisissolmi.tistory.com/244">R의 데이터구조</a></br><a href="https://thisissolmi.tistory.com/243">Regression Analysis</a></br>
