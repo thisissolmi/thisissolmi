@@ -25,4 +25,4 @@
 
 ## 📕 Latest Blog Posts
 
-<a href="https://thisissolmi.tistory.com/250">CDN이 무엇인지 설명해주세요.</a></br><a href="https://thisissolmi.tistory.com/249">길이 단위 px, em, rem에 대해 각각 설명해주세요.</a></br><a href="https://thisissolmi.tistory.com/248">Firefox가 Jetson에서 열리지 않는 이유 문제 해결</a></br><a href="https://thisissolmi.tistory.com/247">리액트에서 컴포넌트란 무엇인가요?</a></br><a href="https://thisissolmi.tistory.com/246">webpack, rollup과 같은 번들러는 왜 필요한지 설명해주세요.</a></br>
+<a href="https://thisissolmi.tistory.com/251">Hero Section</a></br><a href="https://thisissolmi.tistory.com/250">CDN이 무엇인지 설명해주세요.</a></br><a href="https://thisissolmi.tistory.com/249">길이 단위 px, em, rem에 대해 각각 설명해주세요.</a></br><a href="https://thisissolmi.tistory.com/248">Firefox가 Jetson에서 열리지 않는 이유 문제 해결</a></br><a href="https://thisissolmi.tistory.com/247">리액트에서 컴포넌트란 무엇인가요?</a></br>
