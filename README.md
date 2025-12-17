@@ -25,4 +25,4 @@
 
 ## 📕 Latest Blog Posts
 
-<a href="https://thisissolmi.tistory.com/260">Reset CSS와 Normalize CSS가 무엇인가요?</a></br><a href="https://thisissolmi.tistory.com/259">Next.js를 사용하는 이유가 무엇인가요?</a></br><a href="https://thisissolmi.tistory.com/258">CI/CD란 무엇인지 설명해주세요</a></br><a href="https://thisissolmi.tistory.com/257">Sigmoid function (시그모이드 함수)</a></br><a href="https://thisissolmi.tistory.com/256">알고 있는 이미지 포맷과 각 포맷별 특징을 알려주세요.</a></br>
+<a href="https://thisissolmi.tistory.com/261">Content-Type 헤더에 대해서 설명해주세요</a></br><a href="https://thisissolmi.tistory.com/260">Reset CSS와 Normalize CSS가 무엇인가요?</a></br><a href="https://thisissolmi.tistory.com/259">Next.js를 사용하는 이유가 무엇인가요?</a></br><a href="https://thisissolmi.tistory.com/258">CI/CD란 무엇인지 설명해주세요</a></br><a href="https://thisissolmi.tistory.com/257">Sigmoid function (시그모이드 함수)</a></br>
