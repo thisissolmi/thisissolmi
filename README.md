@@ -25,4 +25,4 @@
 
 ## 📕 Latest Blog Posts
 
-<a href="https://thisissolmi.tistory.com/268">테스트하기 쉬운 코드의 조건들에 대해 설명해주세요.</a></br><a href="https://thisissolmi.tistory.com/267">BFF(Backend For Frontend)란 무엇인가요?</a></br><a href="https://thisissolmi.tistory.com/266">npm install과 npm ci의 차이점</a></br><a href="https://thisissolmi.tistory.com/265">인증과 인가에 대해 설명해주세요.</a></br><a href="https://thisissolmi.tistory.com/263">패키지 매니저 pnpm과 yarn berry에 대해 설명해주세요.</a></br>
+<a href="https://thisissolmi.tistory.com/269">머신아트랩 3-4 회차</a></br><a href="https://thisissolmi.tistory.com/268">테스트하기 쉬운 코드의 조건들에 대해 설명해주세요.</a></br><a href="https://thisissolmi.tistory.com/267">BFF(Backend For Frontend)란 무엇인가요?</a></br><a href="https://thisissolmi.tistory.com/266">npm install과 npm ci의 차이점</a></br><a href="https://thisissolmi.tistory.com/265">인증과 인가에 대해 설명해주세요.</a></br>
