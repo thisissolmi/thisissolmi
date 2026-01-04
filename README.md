@@ -25,4 +25,4 @@
 
 ## 📕 Latest Blog Posts
 
-<a href="https://thisissolmi.tistory.com/271">2026 word &amp; thought</a></br><a href="https://thisissolmi.tistory.com/270">낯선 지능과 함께 살아가기</a></br><a href="https://thisissolmi.tistory.com/269">머신아트랩 3-4 회차</a></br><a href="https://thisissolmi.tistory.com/268">테스트하기 쉬운 코드의 조건들에 대해 설명해주세요.</a></br><a href="https://thisissolmi.tistory.com/267">BFF(Backend For Frontend)란 무엇인가요?</a></br>
+<a href="https://thisissolmi.tistory.com/272">원칙에서 행동으로, AI 국제 거버넌스 현황과 쟁점</a></br><a href="https://thisissolmi.tistory.com/271">2026 word &amp; thought</a></br><a href="https://thisissolmi.tistory.com/270">낯선 지능과 함께 살아가기</a></br><a href="https://thisissolmi.tistory.com/269">머신아트랩 3-4 회차</a></br><a href="https://thisissolmi.tistory.com/268">테스트하기 쉬운 코드의 조건들에 대해 설명해주세요.</a></br>
