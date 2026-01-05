@@ -25,4 +25,4 @@
 
 ## 📕 Latest Blog Posts
 
-<a href="https://thisissolmi.tistory.com/274">브라우저 메모리 캐시와 디스크 캐시가 무엇인지 설명해주세요.</a></br><a href="https://thisissolmi.tistory.com/273">AI 시대, 미래는 오지 않는다!</a></br><a href="https://thisissolmi.tistory.com/272">원칙에서 행동으로, AI 국제 거버넌스 현황과 쟁점</a></br><a href="https://thisissolmi.tistory.com/271">2026 word &amp; thought</a></br><a href="https://thisissolmi.tistory.com/270">낯선 지능과 함께 살아가기</a></br>
+<a href="https://thisissolmi.tistory.com/275">AI의 첫걸음, 머신러닝과 딥러닝의 기초</a></br><a href="https://thisissolmi.tistory.com/274">브라우저 메모리 캐시와 디스크 캐시가 무엇인지 설명해주세요.</a></br><a href="https://thisissolmi.tistory.com/273">AI 시대, 미래는 오지 않는다!</a></br><a href="https://thisissolmi.tistory.com/272">원칙에서 행동으로, AI 국제 거버넌스 현황과 쟁점</a></br><a href="https://thisissolmi.tistory.com/271">2026 word &amp; thought</a></br>
