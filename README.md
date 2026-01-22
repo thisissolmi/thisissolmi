@@ -25,4 +25,4 @@
 
 ## 📕 Latest Blog Posts
 
-<a href="https://thisissolmi.tistory.com/290">CSS 명시도(Specificity)에 대해서 설명해주세요.</a></br><a href="https://thisissolmi.tistory.com/289">jsx란 무엇이며, 이는 자바스크립트에서 어떻게 변환되나요?</a></br><a href="https://thisissolmi.tistory.com/288">동적 타입 언어와 정적 타입 언어에 대해 설명해주세요.</a></br><a href="https://thisissolmi.tistory.com/287">Tree shaking</a></br><a href="https://thisissolmi.tistory.com/285">Evaluiation of Large Language Models</a></br>
+<a href="https://thisissolmi.tistory.com/291">아주 보통의 기적 - 심규진과 뚝딱이들</a></br><a href="https://thisissolmi.tistory.com/290">CSS 명시도(Specificity)에 대해서 설명해주세요.</a></br><a href="https://thisissolmi.tistory.com/289">jsx란 무엇이며, 이는 자바스크립트에서 어떻게 변환되나요?</a></br><a href="https://thisissolmi.tistory.com/288">동적 타입 언어와 정적 타입 언어에 대해 설명해주세요.</a></br><a href="https://thisissolmi.tistory.com/287">Tree shaking</a></br>
