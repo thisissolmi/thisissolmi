@@ -25,4 +25,4 @@
 
 ## 📕 Latest Blog Posts
 
-<a href="https://thisissolmi.tistory.com/297">결합도와 응집도</a></br><a href="https://thisissolmi.tistory.com/296">자바스크립트의 메모리 관리</a></br><a href="https://thisissolmi.tistory.com/295">TCP 3-way handshake 과정에 대해서 설명해주세요.</a></br><a href="https://thisissolmi.tistory.com/294">최신 버전의 Next.js가 제공하는 캐싱 기능들에 대해 설명해주세요.</a></br><a href="https://thisissolmi.tistory.com/292">자바스크립트에서 메모리 누수가 발생하는 상황들을 설명해주세요.</a></br>
+<a href="https://thisissolmi.tistory.com/298">HTTP의 ETag에 대해서 설명해주세요.</a></br><a href="https://thisissolmi.tistory.com/297">결합도와 응집도</a></br><a href="https://thisissolmi.tistory.com/296">자바스크립트의 메모리 관리</a></br><a href="https://thisissolmi.tistory.com/295">TCP 3-way handshake 과정에 대해서 설명해주세요.</a></br><a href="https://thisissolmi.tistory.com/294">최신 버전의 Next.js가 제공하는 캐싱 기능들에 대해 설명해주세요.</a></br>
