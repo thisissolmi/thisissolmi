@@ -25,4 +25,4 @@
 
 ## 📕 Latest Blog Posts
 
-<a href="https://thisissolmi.tistory.com/299">XSS 공격이란 무엇이며, 프론트엔드에서 이를 방어하기 위한 방법을 설명해주세요.</a></br><a href="https://thisissolmi.tistory.com/298">HTTP의 ETag에 대해서 설명해주세요.</a></br><a href="https://thisissolmi.tistory.com/297">결합도와 응집도</a></br><a href="https://thisissolmi.tistory.com/296">자바스크립트의 메모리 관리</a></br><a href="https://thisissolmi.tistory.com/295">TCP 3-way handshake 과정에 대해서 설명해주세요.</a></br>
+<a href="https://thisissolmi.tistory.com/300">Node 설치 가이드 (zsh + Homebrew 기준)</a></br><a href="https://thisissolmi.tistory.com/299">XSS 공격이란 무엇이며, 프론트엔드에서 이를 방어하기 위한 방법을 설명해주세요.</a></br><a href="https://thisissolmi.tistory.com/298">HTTP의 ETag에 대해서 설명해주세요.</a></br><a href="https://thisissolmi.tistory.com/297">결합도와 응집도</a></br><a href="https://thisissolmi.tistory.com/296">자바스크립트의 메모리 관리</a></br>
