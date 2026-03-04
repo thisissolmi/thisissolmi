@@ -25,4 +25,4 @@
 
 ## 📕 Latest Blog Posts
 
-<a href="https://thisissolmi.tistory.com/303">iTerm2 한글 깨짐 해결 방법 (자음 모음 분리 현상 해결)</a></br><a href="https://thisissolmi.tistory.com/302">한성 GK888B 맥북 / 윈도우 모드 변경 방법 총정리</a></br><a href="https://thisissolmi.tistory.com/301">프로젝트는 가벼운데 .git 폴더만 1GB가 넘는다면? (대용량 파일 히스토리 삭제 삽질기)</a></br><a href="https://thisissolmi.tistory.com/300">Node 설치 가이드 (zsh + Homebrew 기준)</a></br><a href="https://thisissolmi.tistory.com/299">XSS 공격이란 무엇이며, 프론트엔드에서 이를 방어하기 위한 방법을 설명해주세요.</a></br>
+<a href="https://thisissolmi.tistory.com/304">카페 &middot; 식당 영어 표현 정리 (호주 ver.)</a></br><a href="https://thisissolmi.tistory.com/303">iTerm2 한글 깨짐 해결 방법 (자음 모음 분리 현상 해결)</a></br><a href="https://thisissolmi.tistory.com/302">한성 GK888B 맥북 / 윈도우 모드 변경 방법 총정리</a></br><a href="https://thisissolmi.tistory.com/301">프로젝트는 가벼운데 .git 폴더만 1GB가 넘는다면? (대용량 파일 히스토리 삭제 삽질기)</a></br><a href="https://thisissolmi.tistory.com/300">Node 설치 가이드 (zsh + Homebrew 기준)</a></br>
