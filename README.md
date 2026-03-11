@@ -25,4 +25,4 @@
 
 ## 📕 Latest Blog Posts
 
-<a href="https://thisissolmi.tistory.com/306">호주 워홀 준비 | 커먼웰스 은행 계좌 온라인 개설 방법</a></br><a href="https://thisissolmi.tistory.com/305">Data-Driven UX : 데이터가 두려운 실무자를 위한 입문서</a></br><a href="https://thisissolmi.tistory.com/304">카페 &middot; 식당 영어 표현 정리 (호주 ver.)</a></br><a href="https://thisissolmi.tistory.com/303">iTerm2 한글 깨짐 해결 방법 (자음 모음 분리 현상 해결)</a></br><a href="https://thisissolmi.tistory.com/302">한성 GK888B 맥북 / 윈도우 모드 변경 방법 총정리</a></br>
+<a href="https://thisissolmi.tistory.com/307">자취생이 써본 브리타 정수기 스타일 에센셜 후기 (물맛 솔직 리뷰) </a></br><a href="https://thisissolmi.tistory.com/306">호주 워홀 준비 | 커먼웰스 은행 계좌 온라인 개설 방법</a></br><a href="https://thisissolmi.tistory.com/305">Data-Driven UX : 데이터가 두려운 실무자를 위한 입문서</a></br><a href="https://thisissolmi.tistory.com/304">카페 &middot; 식당 영어 표현 정리 (호주 ver.)</a></br><a href="https://thisissolmi.tistory.com/303">iTerm2 한글 깨짐 해결 방법 (자음 모음 분리 현상 해결)</a></br>
