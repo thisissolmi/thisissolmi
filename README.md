@@ -25,4 +25,4 @@
 
 ## 📕 Latest Blog Posts
 
-<a href="https://thisissolmi.tistory.com/309">Inspection Note</a></br><a href="https://thisissolmi.tistory.com/308">스택으로 구현하는 브라우저 뒤로가기/앞으로가기 기능</a></br><a href="https://thisissolmi.tistory.com/307">자취생이 써본 브리타 정수기 스타일 에센셜 후기 (물맛 솔직 리뷰) </a></br><a href="https://thisissolmi.tistory.com/306">호주 워홀 준비 | 커먼웰스 은행 계좌 온라인 개설 방법</a></br><a href="https://thisissolmi.tistory.com/305">Data-Driven UX : 데이터가 두려운 실무자를 위한 입문서</a></br>
+<a href="https://thisissolmi.tistory.com/310">호주 워홀 준비 | TNF 신청하기</a></br><a href="https://thisissolmi.tistory.com/309">Inspection Note</a></br><a href="https://thisissolmi.tistory.com/308">스택으로 구현하는 브라우저 뒤로가기/앞으로가기 기능</a></br><a href="https://thisissolmi.tistory.com/307">자취생이 써본 브리타 정수기 스타일 에센셜 후기 (물맛 솔직 리뷰) </a></br><a href="https://thisissolmi.tistory.com/306">호주 워홀 준비 | 커먼웰스 은행 계좌 온라인 개설 방법</a></br>
