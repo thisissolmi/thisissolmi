@@ -25,4 +25,4 @@
 
 ## 📕 Latest Blog Posts
 
-<a href="https://thisissolmi.tistory.com/314">Do schools kill creativity?</a></br><a href="https://thisissolmi.tistory.com/313">The Power of Vulnerability</a></br><a href="https://thisissolmi.tistory.com/312">Forward</a></br><a href="https://thisissolmi.tistory.com/311">한글 입력 시 발생하는 IME 이슈 및 타이핑 로직 오류 해결</a></br><a href="https://thisissolmi.tistory.com/310">호주 워홀 준비 | TNF 신청하기</a></br>
+<a href="https://thisissolmi.tistory.com/314">[TED] Do schools kill creativity?</a></br><a href="https://thisissolmi.tistory.com/313">[TED] The Power of Vulnerability</a></br><a href="https://thisissolmi.tistory.com/312">Forward</a></br><a href="https://thisissolmi.tistory.com/311">한글 입력 시 발생하는 IME 이슈 및 타이핑 로직 오류 해결</a></br><a href="https://thisissolmi.tistory.com/310">호주 워홀 준비 | TNF 신청하기</a></br>
