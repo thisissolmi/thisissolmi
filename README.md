@@ -25,4 +25,4 @@
 
 ## 📕 Latest Blog Posts
 
-<a href="https://thisissolmi.tistory.com/318">[인사이트] UX에서 HX로의 전환: 경험을 넘어 &lsquo;인간 자체&rsquo;를 설계하다</a></br><a href="https://thisissolmi.tistory.com/317">[TED] The agony of trying to unsubscribe</a></br><a href="https://thisissolmi.tistory.com/316">디자인 파밍 1일차</a></br><a href="https://thisissolmi.tistory.com/315">[TED]Try something new for 30 days</a></br><a href="https://thisissolmi.tistory.com/314">[TED] Do schools kill creativity?</a></br>
+<a href="https://thisissolmi.tistory.com/319">브랜드 셋업하기</a></br><a href="https://thisissolmi.tistory.com/318">[인사이트] UX에서 HX로의 전환: 경험을 넘어 &lsquo;인간 자체&rsquo;를 설계하다</a></br><a href="https://thisissolmi.tistory.com/317">[TED] The agony of trying to unsubscribe</a></br><a href="https://thisissolmi.tistory.com/316">디자인 파밍 1일차</a></br><a href="https://thisissolmi.tistory.com/315">[TED]Try something new for 30 days</a></br>
